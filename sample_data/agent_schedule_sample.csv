@@ -1,0 +1,6 @@
+# sample_data/agent_schedule_sample.csv
+agent,date,shift_start,shift_end,team
+Anita,2025-11-10,09:00,18:00,Team A
+Anita,2025-11-11,09:00,18:00,Team A
+Rahul,2025-11-10,10:00,19:00,Team B
+Rahul,2025-11-11,10:00,19:00,Team B
