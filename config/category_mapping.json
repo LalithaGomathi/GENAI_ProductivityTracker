@@ -1,0 +1,8 @@
+// config/category_mapping.json
+{
+  "Incidents": ["Incident", "INC", "Break/Fix"],
+  "Requests": ["Request", "REQ", "Service Request"],
+  "Change": ["Change", "CHG"],
+  "Calls": ["Call", "Voice", "Inbound", "Outbound"],
+  "Other": ["Task", "Misc"]
+}
