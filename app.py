@@ -1,5 +1,3 @@
-# app.py (fixed version)
-
 import streamlit as st
 import pandas as pd
 import altair as alt
@@ -33,4 +31,11 @@ settings.timezone = tz_name
 
 # Helper to read sample if no file
 def read_csv_or_sample(file, sample_path):
-    if file
+    if file is not None:
+        st.write(f"Loading {file.name}...")
+        return pd.read_csv(file)
+    st.write(f"Using sample {sample_path}")
+    return pd.read_csv(sample_path)
+
+# Load data
+df_tickets = read
