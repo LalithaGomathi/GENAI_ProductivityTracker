@@ -1,0 +1,7 @@
+# sample_data/tickets_sample.csv
+agent,ticket_id,category,start_ts,end_ts,team
+Anita,T-1001,Incident,2025-11-10 09:15:00,2025-11-10 09:45:00,Team A
+Anita,T-1002,Request,2025-11-10 10:00:00,2025-11-10 10:25:00,Team A
+Rahul,T-2001,Incident,2025-11-10 09:30:00,2025-11-10 10:10:00,Team B
+Rahul,T-2002,Change,2025-11-10 11:00:00,2025-11-10 11:50:00,Team B
+Anita,T-1003,Incident,2025-11-11 14:10:00,2025-11-11 14:30:00,Team A
