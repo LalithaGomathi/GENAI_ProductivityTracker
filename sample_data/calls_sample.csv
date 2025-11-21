@@ -1,0 +1,5 @@
+# sample_data/calls_sample.csv
+agent,call_id,category,start_ts,end_ts,duration_seconds,team
+Anita,C-501,Inbound,2025-11-10 09:50:00,2025-11-10 10:00:00,600,Team A
+Rahul,C-601,Outbound,2025-11-10 10:15:00,2025-11-10 10:35:00,1200,Team B
+Anita,C-502,Inbound,2025-11-11 15:00:00,2025-11-11 15:12:00,720,Team A
