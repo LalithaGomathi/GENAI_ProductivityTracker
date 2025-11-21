@@ -1,0 +1,4 @@
+# config/app_config.yaml
+timezone: Asia/Kolkata
+heatmap_hour_bins: 24
+team_field_name: team # optional field in uploads for filtering
