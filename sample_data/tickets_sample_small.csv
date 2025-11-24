@@ -1,0 +1,3 @@
+agent,ticket_id,category,start_ts,end_ts,team
+Meena,T-3001,Request,2025-11-12 09:00:00,2025-11-12 09:20:00,Team C
+Meena,T-3002,Incident,2025-11-12 10:00:00,2025-11-12 10:40:00,Team C
