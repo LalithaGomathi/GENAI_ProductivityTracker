@@ -1,0 +1,2 @@
+agent,call_id,category,start_ts,end_ts,duration_seconds,team
+Meena,C-701,Inbound,2025-11-12 11:00:00,2025-11-12 11:15:00,900,Team C
